@@ -6,7 +6,8 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ㄱㄴㄴ</translatorcomment>
+        <translation>ㄱ</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="27"/>
@@ -17,7 +18,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="mainwindow.cpp" line="23"/>
+        <location filename="mainwindow.cpp" line="26"/>
         <source>Bye World!</source>
         <translation>번역 됐지롱~</translation>
     </message>
