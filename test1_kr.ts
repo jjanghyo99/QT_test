@@ -6,13 +6,12 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translatorcomment>ㄱㄴㄴ</translatorcomment>
-        <translation>ㄱ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="27"/>
         <source>Hello World</source>
-        <translation>안녕</translation>
+        <translation type="unfinished">스페이스바</translation>
     </message>
 </context>
 <context>
